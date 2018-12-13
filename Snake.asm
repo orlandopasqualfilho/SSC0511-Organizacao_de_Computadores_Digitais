@@ -1,3 +1,7 @@
+; Este eh um jogo feito em assembly do processador do Simoes para a materia de Organizacao de Computadores
+;
+; O jogo foi feito por Orlando Pasqual Filho. Caso queira entrar em contato, meu e-mail eh or.pasqual@gmail.com
+
 jmp main
 
 ;---- Declaracao de Variaveis Globais -------------------------------------------------------
